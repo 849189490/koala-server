@@ -1,0 +1,188 @@
+{
+  "banners": [
+    "http://qigexiaoairen.cn:3001/public/banner/banner1.png",
+    "http://qigexiaoairen.cn:3001/public/banner/banner2.png",
+    "http://qigexiaoairen.cn:3001/public/banner/banner3.png"
+  ],
+  "tab": [
+    {
+      "type": "美容彩妆",
+      "img": "http://qigexiaoairen.cn:3001/public/tab/tab1.png",
+      "value": [
+        {
+          "title": "护肤",
+          "sorts": [
+            { "name": "洁面", "light": true },
+            { "name": "卸妆", "light": false },
+            { "name": "卸妆", "light": false },
+            { "name": "卸妆", "light": false },
+            { "name": "卸妆", "light": true },
+            { "name": "卸妆", "light": false },
+            { "name": "卸妆", "light": false },
+            { "name": "卸妆", "light": true }
+          ]
+        },
+        {
+          "title": "面膜",
+          "sorts": [
+            { "name": "美迪惠尔", "light": false },
+            { "name": "美迪惠尔", "light": false },
+            { "name": "美迪惠尔", "light": true },
+            { "name": "美迪惠尔", "light": false },
+            { "name": "美迪惠尔", "light": false },
+            { "name": "美迪惠尔", "light": false },
+            { "name": "美迪惠尔", "light": false },
+            { "name": "美迪惠尔", "light": true },
+            { "name": "美迪惠尔", "light": false },
+            { "name": "美迪惠尔", "light": true },
+            { "name": "美迪惠尔", "light": false },
+            { "name": "美迪惠尔", "light": false }
+          ]
+        },
+        {
+          "title": "香水",
+          "sorts": [
+            { "name": "美迪惠尔", "light": false },
+            { "name": "美迪惠尔", "light": false },
+            { "name": "美迪惠尔", "light": false },
+            { "name": "美迪惠尔", "light": true },
+            { "name": "美迪惠尔", "light": false },
+            { "name": "美迪惠尔", "light": false },
+            { "name": "美迪惠尔", "light": true },
+            { "name": "美迪惠尔", "light": true },
+            { "name": "美迪惠尔", "light": true },
+            { "name": "美迪惠尔", "light": false },
+            { "name": "美迪惠尔", "light": true },
+            { "name": "美迪惠尔", "light": false }
+          ]
+        }
+      ]
+    },
+
+    {
+      "type": "母婴儿童",
+      "img": "http://qigexiaoairen.cn:3001/public/tab/tab2.png",
+      "value": [
+        {
+          "title": "护肤",
+          "sorts": [
+            { "name": "洁面", "light": true },
+            { "name": "洁面", "light": true },
+            { "name": "洁面", "light": false },
+            { "name": "洁面", "light": true },
+            { "name": "洁面", "light": false },
+            { "name": "洁面", "light": true },
+            { "name": "洁面", "light": false },
+            { "name": "洁面", "light": false },
+            { "name": "洁面", "light": true },
+            { "name": "洁面", "light": true },
+            { "name": "洁面", "light": true }
+          ]
+        },
+        {
+          "title": "面膜",
+          "sorts": [
+            { "name": "美迪惠尔", "light": false },
+            { "name": "美迪惠尔", "light": false },
+            { "name": "美迪惠尔", "light": true },
+            { "name": "美迪惠尔", "light": false },
+            { "name": "美迪惠尔", "light": false },
+            { "name": "美迪惠尔", "light": false },
+            { "name": "美迪惠尔", "light": true },
+            { "name": "美迪惠尔", "light": false },
+            { "name": "美迪惠尔", "light": false },
+            { "name": "美迪惠尔", "light": true },
+            { "name": "美迪惠尔", "light": false },
+            { "name": "美迪惠尔", "light": false }
+          ]
+        }
+      ]
+    },
+
+    {
+      "type": "营养保健",
+      "img": "http://qigexiaoairen.cn:3001/public/tab/tab3.png",
+      "value": [
+        {
+          "title": "护肤",
+          "sorts": [
+            { "name": "美迪惠尔", "light": false },
+            { "name": "美迪惠尔", "light": false },
+            { "name": "美迪惠尔", "light": false },
+            { "name": "美迪惠尔", "light": true },
+            { "name": "美迪惠尔", "light": false },
+            { "name": "美迪惠尔", "light": true },
+            { "name": "美迪惠尔", "light": false },
+            { "name": "美迪惠尔", "light": false },
+            { "name": "美迪惠尔", "light": false },
+            { "name": "美迪惠尔", "light": true },
+            { "name": "美迪惠尔", "light": false },
+            { "name": "美迪惠尔", "light": false }
+          ]
+        },
+        {
+          "title": "面膜",
+          "sorts": [
+            { "name": "美迪惠尔", "light": false },
+            { "name": "美迪惠尔", "light": false },
+            { "name": "美迪惠尔", "light": true },
+            { "name": "美迪惠尔", "light": false },
+            { "name": "美迪惠尔", "light": false },
+            { "name": "美迪惠尔", "light": false },
+            { "name": "美迪惠尔", "light": true },
+            { "name": "美迪惠尔", "light": false },
+            { "name": "美迪惠尔", "light": false },
+            { "name": "美迪惠尔", "light": true },
+            { "name": "美迪惠尔", "light": false },
+            { "name": "美迪惠尔", "light": true }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "数码家电",
+      "img": "http://qigexiaoairen.cn:3001/public/tab/tab4.png",
+      "value": []
+    },
+    {
+      "type": "个护家清",
+      "img": "http://qigexiaoairen.cn:3001/public/tab/tab1.png",
+      "value": []
+    },
+    {
+      "type": "服饰鞋靴",
+      "img": "http://qigexiaoairen.cn:3001/public/tab/tab2.png",
+      "value": []
+    },
+    {
+      "type": "运动户外",
+      "img": "http://qigexiaoairen.cn:3001/public/tab/tab3.png",
+      "value": []
+    },
+    {
+      "type": "手表配饰",
+      "img": "http://qigexiaoairen.cn:3001/public/tab/tab4.png",
+      "value": []
+    },
+    {
+      "type": "轻奢",
+      "img": "http://qigexiaoairen.cn:3001/public/tab/tab1.png",
+      "value": []
+    },
+    {
+      "type": "家居生活",
+      "img": "http://qigexiaoairen.cn:3001/public/tab/tab2.png",
+      "value": []
+    },
+    {
+      "type": "环球美食",
+      "img": "http://qigexiaoairen.cn:3001/public/tab/tab3.png",
+      "value": []
+    },
+    {
+      "type": "宠物生活",
+      "img": "http://qigexiaoairen.cn:3001/public/tab/tab4.png",
+      "value": []
+    }
+  ]
+}
