@@ -3,7 +3,8 @@ const express = require('express')
 const router = express.Router()
 // 引入db文件
 const IndexModel = require('../../db/model/indexModel.js')
-// http://localhost:3001/index/main/add
+// http://localhost:3001/index/main/tab
+// http://www.qigexiaoairen.cn:3001/index/main/tab
 router.get('/tab', (req, res) => {
   // // 模拟从数据库拿到的数据
   // let title = 'helloejs'

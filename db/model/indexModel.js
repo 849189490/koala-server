@@ -93,4 +93,4 @@ let userSchema = mongoose.Schema({
 })
 
 // 将schema对象转化为数据模型
-module.exports = mongoose.model('Index', userSchema, 'index')
+module.exports = mongoose.model('Index', userSchema)

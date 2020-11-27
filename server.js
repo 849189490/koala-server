@@ -10,6 +10,7 @@ const cookieParser = require('cookie-parser')
 const session = require('express-session')
 // 使用connect-mongo 让node与mongoDB建立连接,分布式session
 const MongoStore = require('connect-mongo')(session)
+const cors = require('cors')
 
 // 路由模块化
 // 引入外部index模块
@@ -18,8 +19,6 @@ const index = require('./routes/index')
 const api = require('./routes/api')
 // 引入外部admin模块
 const admin = require('./routes/admin')
-
-const cors = require('cors')
 
 const app = express()
 
